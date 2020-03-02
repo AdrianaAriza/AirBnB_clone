@@ -1,6 +1,7 @@
 header 
 {
     height: 70px; 
+    position: relative;
     background-color: white;
     border-bottom-style: solid;
     border-bottom-width: 1px;
