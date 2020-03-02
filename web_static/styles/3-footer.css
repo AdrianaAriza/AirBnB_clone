@@ -1,6 +1,6 @@
 footer
 {
-    position: flex;
+    position: absolute;
     margin-bottom: 0px;
     line-height: 60px; 
     text-align: center;
