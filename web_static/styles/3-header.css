@@ -1,7 +1,11 @@
-header {
-	background-color: white;
-	background: url('../images/logo.png') 20px center no-repeat;
-	height: 70px;
-	width: 100%;
-	border-bottom: 1px solid #CCCCCC;
+header 
+{
+    height: 70px; 
+    background-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #CCCCCC;
+    background-image: url(/images/logo.png);
+    background-repeat: no-repeat;
+    background-position: 20px;
 }

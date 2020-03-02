@@ -1,11 +1,11 @@
-footer {
-	background-color: white;
-	height: 60px;
-	width: 100%;
-	border-top: 1px solid #CCCCCC;
-	justify-content: center;
-	align-items: center;
-	bottom: 0;
-	display: flex;
-	position: fixed;
+footer
+{
+    position: absolute;
+    margin-bottom: 0px;
+    line-height: 60px; 
+    text-align: center;
+    height: 60px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-color: #CCCCCC;
 }
